@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacky</h1>
-<h3 align="center">Aspiring Backend Developer | Skilled in Java, Spring Boot, and Cloud Technologies | Passionate about Scalable Software Solutions</h3>
+<h3 align="center">Aspiring Backend Developer | Skilled in Java, Spring Boot, and Cloud Technologies | Passionate about AI integrations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackytang0516&label=Profile%20views&color=0e75b6&style=flat" alt="jackytang0516" /> </p>
 
