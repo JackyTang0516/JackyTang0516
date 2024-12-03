@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jacky</h1>
-<h3 align="center">Full Stack Developer | Passionate about AI integrations</h3>
+<h3 align="center">Full Stack Engineer | Passionate about AI integrations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackytang0516&label=Profile%20views&color=0e75b6&style=flat" alt="jackytang0516" /> </p>
 
-- 🔭 I’m currently working on [SyncSo](https://syncso.com/)
+- 🔭 I’m currently working in Spending Power.
 
 - 👨‍💻 All of my projects are available at [https://jackytang0516.github.io/](https://jackytang0516.github.io/)
 
