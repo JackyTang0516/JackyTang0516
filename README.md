@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackytang0516&label=Profile%20views&color=0e75b6&style=flat" alt="jackytang0516" /> </p>
 
-- 🔭 I’m currently working in Spending Power.
+- 🔭 I’m currently working in Pac-Dent Inc.
 
 - 👨‍💻 All of my projects are available at [https://jackytang0516.github.io/](https://jackytang0516.github.io/)
 
